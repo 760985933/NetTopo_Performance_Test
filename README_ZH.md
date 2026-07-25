@@ -22,11 +22,11 @@ NetTopo 网络拓扑性能测试管理与报告生成工具，支持 CLI、Web �
 
 | 主界面 | 主机管理 | 任务管理 |
 |--------|---------|---------|
-| ![主界面](imgs/性能测试软件.png) | ![主机管理](imgs/主机管理.png) | ![任务管理](imgs/任务管理.png) |
+| ![主界面](imgs/main-ui.png) | ![主机管理](imgs/host-management.png) | ![任务管理](imgs/task-management.png) |
 
 | 脚本配置 | 分析报告 (1) | 分析报告 (2) |
 |---------|-------------|-------------|
-| ![脚本配置](imgs/配置模型.png) | ![分析报告1](imgs/分析报告1.png) | ![分析报告2](imgs/分析报告2.png) |
+| ![脚本配置](imgs/script-config.png) | ![分析报告1](imgs/report-1.png) | ![分析报告2](imgs/report-2.png) |
 
 ## 快速开始
 

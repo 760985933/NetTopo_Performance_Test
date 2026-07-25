@@ -22,11 +22,11 @@ NetTopo is a network topology performance testing management and report generati
 
 | Main UI | Host Management | Task Management |
 |---------|----------------|-----------------|
-| ![Main UI](imgs/性能测试软件.png) | ![Host Management](imgs/主机管理.png) | ![Task Management](imgs/任务管理.png) |
+| ![Main UI](imgs/main-ui.png) | ![Host Management](imgs/host-management.png) | ![Task Management](imgs/task-management.png) |
 
 | Script Configuration | Report (1) | Report (2) |
 |---------------------|------------|------------|
-| ![Script Configuration](imgs/配置模型.png) | ![Report 1](imgs/分析报告1.png) | ![Report 2](imgs/分析报告2.png) |
+| ![Script Configuration](imgs/script-config.png) | ![Report 1](imgs/report-1.png) | ![Report 2](imgs/report-2.png) |
 
 ## Quick Start
 
