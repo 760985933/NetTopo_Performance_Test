@@ -1,6 +1,6 @@
 # NetTopo パフォーマンステストツール
 
-[English](README_EN.md) | [中文](README.md) | **日本語**
+[English](README.md) | [中文](README_ZH.md) | **日本語**
 
 NetTopo はネットワークトポロジのパフォーマンステスト管理およびレポート生成ツールで、CLI、Web、デスクトップ GUI の3つのモードをサポートしています。
 
