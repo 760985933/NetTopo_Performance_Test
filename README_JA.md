@@ -1,5 +1,11 @@
 # NetTopo パフォーマンステストツール
 
+[![License](https://img.shields.io/github/license/760985933/NetTopo_Performance_Test)](/LICENSE)
+[![Release](https://img.shields.io/github/v/release/760985933/NetTopo_Performance_Test)](https://github.com/760985933/NetTopo_Performance_Test/releases/latest)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/760985933/NetTopo_Performance_Test)](https://go.dev/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/760985933/NetTopo_Performance_Test)](https://goreportcard.com/report/github.com/760985933/NetTopo_Performance_Test)
+[![Wails](https://img.shields.io/badge/Wails-v2-blue)](https://wails.io)
+
 [English](README.md) | [中文](README_ZH.md) | **日本語**
 
 NetTopo はネットワークトポロジのパフォーマンステスト管理およびレポート生成ツールで、CLI、Web、デスクトップ GUI の3つのモードをサポートしています。

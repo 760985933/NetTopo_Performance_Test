@@ -1,5 +1,11 @@
 # NetTopo 性能测试工具
 
+[![License](https://img.shields.io/github/license/760985933/NetTopo_Performance_Test)](/LICENSE)
+[![Release](https://img.shields.io/github/v/release/760985933/NetTopo_Performance_Test)](https://github.com/760985933/NetTopo_Performance_Test/releases/latest)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/760985933/NetTopo_Performance_Test)](https://go.dev/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/760985933/NetTopo_Performance_Test)](https://goreportcard.com/report/github.com/760985933/NetTopo_Performance_Test)
+[![Wails](https://img.shields.io/badge/Wails-v2-blue)](https://wails.io)
+
 [English](README.md) | **中文** | [日本語](README_JA.md)
 
 NetTopo 网络拓扑性能测试管理与报告生成工具，支持 CLI、Web 和桌面 GUI 三种模式。
