@@ -1,5 +1,7 @@
 # NetTopo 性能测试工具
 
+[English](README_EN.md) | **中文** | [日本語](README_JA.md)
+
 NetTopo 网络拓扑性能测试管理与报告生成工具，支持 CLI、Web 和桌面 GUI 三种模式。
 
 ## 功能特性
