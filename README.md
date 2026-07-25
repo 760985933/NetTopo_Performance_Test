@@ -18,6 +18,16 @@ NetTopo is a network topology performance testing management and report generati
 - **Smart Report Generation** — Auto-generates Excel summary + interactive HTML chart reports
 - **Task Orchestration** — Drag-and-drop multi-scenario ordering with automatic sequential execution
 
+## Screenshots
+
+| Main UI | Host Management | Task Management |
+|---------|----------------|-----------------|
+| ![Main UI](build/bin/性能测试软件.png) | ![Host Management](build/bin/主机管理.png) | ![Task Management](build/bin/任务管理.png) |
+
+| Script Configuration | Report (1) | Report (2) |
+|---------------------|------------|------------|
+| ![Script Configuration](build/bin/配置模型.png) | ![Report 1](build/bin/分析报告1.png) | ![Report 2](build/bin/分析报告2.png) |
+
 ## Quick Start
 
 ### Option 1: Desktop Application (Recommended)
