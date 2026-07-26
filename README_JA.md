@@ -138,3 +138,13 @@ AGPLv3
 - このプロジェクトをベースにした派生作品がネットワークサービスを提供する場合や、ソフトウェアを配布する場合、**フロントエンドとバックエンドの完全なソースコードを公開する必要があります**。
 - 派生作品には、フロントエンドページ、バックエンドサービス、API ロジック、データベーススクリプト、デプロイスクリプトが含まれますが、これらはすべて完全にオープンソース化する必要があります。
 - サーバー実装を非公開にしたままフロントエンドコードのみを公開することはできません。
+
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=760985933%2FNetTopo_Performance_Test">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&legend=top-left" />
+ </picture>
+</a>

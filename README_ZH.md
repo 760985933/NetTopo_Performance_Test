@@ -138,3 +138,13 @@ AGPLv3
 - 任何基于本项目的衍生作品，若对外提供网络服务或分发，**必须完整公开前后端全部源代码**。
 - 衍生作品包含但不限于：前端页面、后端服务、接口逻辑、数据库脚本、部署脚本，均需完整开源。
 - 不得仅开放前端代码而隐藏服务端实现。
+
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=760985933%2FNetTopo_Performance_Test">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&legend=top-left" />
+ </picture>
+</a>

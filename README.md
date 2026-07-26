@@ -138,3 +138,13 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPLv
 - Any derivative work based on this project that provides network services or distributes software **must publicly release the complete source code** of both frontend and backend.
 - Derivative works include, but are not limited to: frontend pages, backend services, API logic, database scripts, and deployment scripts — all must be fully open-sourced.
 - You may not release only the frontend code while keeping the server implementation proprietary.
+
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=760985933%2FNetTopo_Performance_Test">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=760985933/NetTopo_Performance_Test&type=date&legend=top-left" />
+ </picture>
+</a>
